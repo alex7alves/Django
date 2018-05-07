@@ -1,0 +1,374 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"on_ga",
+				"on_gamma_h"
+			],
+			[
+				"Fl",
+				"Filtro_Homomorfico"
+			],
+			[
+				"on_gamma",
+				"on_gamma_l"
+			],
+			[
+				"borr",
+				"borrado"
+			],
+			[
+				"al",
+				"alpha"
+			],
+			[
+				"s",
+				"status"
+			],
+			[
+				"led",
+				"led_1"
+			],
+			[
+				"fim",
+				"fim_var"
+			],
+			[
+				"threa",
+				"thread_count"
+			],
+			[
+				"nu",
+				"num_threads"
+			],
+			[
+				"adc",
+				"adcL"
+			],
+			[
+				"som",
+				"somaFinal"
+			],
+			[
+				"loc",
+				"local_y"
+			],
+			[
+				"lo",
+				"local_b"
+			],
+			[
+				"t",
+				"two_d"
+			],
+			[
+				"INC",
+				"include"
+			],
+			[
+				"co",
+				"comm_sz"
+			],
+			[
+				"val",
+				"Valores"
+			],
+			[
+				"m",
+				"mensagem"
+			],
+			[
+				"de",
+				"desligar"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/alex/Área de Trabalho/test.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/PDI/tiltshiftImage.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/PDI/histogram.cpp",
+		"/home/alex/Área de Trabalho/escript.sh",
+		"/media/alex/ALEX/Atualização/ImagensOpencv/main.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/Oculos inteligente/Oculos_inteligente/Testes/OpenCV/Testes com filtros/PegarCentroImagem/main.cpp",
+		"/media/alex/ALEX/Atualização/VideoOpencv/main.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/site_git/README.md",
+		"/home/alex/Área de Trabalho/Pasta sem título/PDI/tiltshift.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/PDI/Contar_bolhas.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/PDI/Equalizar.cpp",
+		"/tmp/mozilla_alex0/lapgauss.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/Site/PDI/regioes.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/Site/PDI/quadrantes.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/Site/PDI/Equalizar_imagem.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/Site/PDI/Equalizar.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/PDI_git/TrocarRegioes/TrabalhoPDI/main.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/PDI/Detectar_movimento.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/PDI_git/Contar_bolhas_old.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/Oculos inteligente/Oculos_inteligente/Filtro/LOG.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/PDI/inex.ascii",
+		"/home/alex/Área de Trabalho/Pasta sem título/PDI/teste.cpp",
+		"/tmp/mozilla_alex0/histogram.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/PDI/LOG_opencv.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/PDI/hello.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/Pesquisa/PWM_led_mraa.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/Pesquisa/tempo_led_potenciometro.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/Pesquisa/estado_led_mraa.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/Pesquisa/botao_led_mraa.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/Oculos inteligente/Oculos_inteligente/Testes/Intel Edison/led_mraa.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/Pesquisa/led_mraa.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/mpi_c3q4.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/PDI/ex.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/PDI/labeling.cpp",
+		"/media/alex/ALEX/Atualização/PDI/PDI_git/TrocarRegioes/TrabalhoPDI/main.cpp",
+		"/home/alex/.cache/.fr-RfNi8a/ov7670-no-ram-arduino-uno-master/ov7670.c",
+		"/home/alex/.cache/.fr-guGmEM/MT9F002_demo.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/Pesquisa/estado_led_mraa (cópia).c",
+		"/home/alex/Área de Trabalho/Pasta sem título/hello.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/processos/monitor.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/filtro.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Sockets/cliente7.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/PCD/Lista 3/omp_trap1.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/PCD/Lista 3/omp_trap2a.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/PCD/Lista 3/omp_trap3.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/PCD/Meus testes MPI/Trabalho 2/Trabalho enviar/arvore_tempo.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/PCD/Meus testes MPI/Trabalho 2/Trabalho enviar/Vetor_Reduce.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/PCD/Meus testes MPI/Trabalho 2/Trabalho enviar/mpi_mat_vect_mult.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/PCD/ipp-source-use/ch3/mpi_mat_vect_mult.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/PCD/Lista2/q17.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/PCD/Lista 3/q6.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/PCD/Lista 3/q5.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/PCD/Lista 3/q10.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/PCD/Lista 3/q3.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Meus testes/Produtor_consumidor.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Threads/thread3.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Trabalho final/servidor_multicast.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Sockets/servidor7.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Sockets/servidor6.cpp",
+		"/home/alex/Downloads/nuvemsimp",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Trabalho final/cliente_multicast.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Trabalho final/Testes trabalho/servidor_trab3.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Trabalho final/Testes trabalho/cliente_Tab3.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Sockets/cliente8.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Sockets/servidor8.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Sockets/peganome.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Meus testes/STR_github/Trabalho final/cliente_multicast.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Sockets/servidor_multicast.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Meus testes/STR_github/Trabalho final/servidor_multicast.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/matrizes.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Threads/thread2.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Sockets/servidor3.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Sockets/servidor4.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Sockets/cliente1.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Sockets/servidor1.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/PCD/Lista 3/Vetorizado/PCA-Parallel-OpenMP-master/scriptalex.sh",
+		"/home/alex/Área de Trabalho/Pasta sem título/PCD/Lista 3/Vetorizado/PCA-Parallel-OpenMP-master/pca.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/hello.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/PCD/Lista 3/Vetorizado/PCA-Parallel-OpenMP-master/SC125.sh",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Sockets/cliente3.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Sockets/cliente4.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Sockets/cliente5.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Sockets/servidor5.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Sockets/cliente6.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Meus testes/thread_calculos.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Meus testes/STR_github/Trabalho final/Testes trabalho/servidor_trab3.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Trabalho final/cliente_multicast_.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Trabalho final/Testes trabalho/cliente_multicast.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Threads/thread6.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Meus testes/Trilhos_treen_beagle.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Meus testes/treens_display.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Meus testes/STR_github/Trabalho 2.4/Trilhos_treen_beagle.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Sockets/cliente_multicast.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/PCD/Lista 3/Vetorizado/pca-master/pca.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/PCD/Lista 3/PCA-Parallel-OpenMP-master/pca.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/PCD/Lista 3/Vetorizado/PCA-Parallel-OpenMP-master/script.sh",
+		"/home/alex/Área de Trabalho/Pasta sem título/PCD/Lista 3/PCA-Parallel-OpenMP-master/Makefile",
+		"/home/alex/Área de Trabalho/Pasta sem título/PCD/Lista 3/Vetorizado/pca-master/Makefile",
+		"/media/alex/4628-99BD/pca.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/PCD/Lista 3/PCA-Parallel-OpenMP-master/pca .cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/PCD/ipp-source-use/ch5/omp_trap2b.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/PCD/ipp-source-use/ch5/omp_trap2a.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/PCD/Produto_escalar.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Threads/thread7.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Threads/thread8.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Meus testes/trilhos.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Threads/thread10.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Threads/thread9.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Threads/thread4.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/PCD/Meus testes MPI/mpi_mat_vect_mult.c",
+		"/run/user/1000/gvfs/sftp:host=192.168.6.2,user=debian/home/debian/BlackLib-Modificada-master/main.cpp",
+		"/tmp/mozilla_alex0/trens_display.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/PCD/Meus testes MPI/arvore_completa.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/PCD/Lista2/testes trab2/mpi_mat_vect_mult.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/PCD/Meus testes MPI/Trabalho 2/Vetor_Reduce.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/PCD/Meus testes MPI/Trabalho 2/arvore_tempo.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/PCD/Meus testes MPI/Trabalho 2/arvore__completa_tempo.c",
+		"/home/alex/Área de Trabalho/mpi_mat_vect_mult.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/PCD/ipp-source-use/ch3/mpi_mat_vect_time.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Meus testes/Mutex_linhas_Treem.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/PCD/Meus testes MPI/arvore_impar.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/STR/programas/Meus testes/tet.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/PCD/ipp-source-use/ch5/omp_pi.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/PCD/Meus testes MPI/arvore_par.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/PCD/mpi_trap3.c",
+		"/home/alex/.cache/.fr-1k7Gw1/thread2.cpp",
+		"/home/alex/Área de Trabalho/Pasta sem título/PCD/ipp-source-use/ch5/omp_msg/omp_msglk.c",
+		"/home/alex/Área de Trabalho/Pasta sem título/PCD/ipp-source-use/ch5/omp_msg/omp_msgps.c"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"        //",
+			"#"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "manage.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
