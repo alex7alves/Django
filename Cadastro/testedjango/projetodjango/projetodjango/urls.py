@@ -28,7 +28,6 @@ urlpatterns = [
 """
 urlpart = patterns('',
 
-
 )
 
 if settings.DEBUG:
@@ -36,6 +35,5 @@ if settings.DEBUG:
 		'django.views.static.serve',{'document_root':settings.MEDIA_ROOT,'show_indexes':True}),
 
 	)
-
 urlpart += staticfiles_urlpatterns	
 """
