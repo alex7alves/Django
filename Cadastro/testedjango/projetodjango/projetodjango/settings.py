@@ -130,3 +130,8 @@ STATICFILES_DIRS = (
     ('site',os.path.join(BASE_DIR, 'sitestatic')),
 
 )
+
+TEMPLATES_DIRS = (
+    os.path.join(BASE_DIR, 'templates'),
+
+)
