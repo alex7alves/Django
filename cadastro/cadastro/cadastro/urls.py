@@ -17,6 +17,12 @@ Including another URLconf
 from django.conf.urls import url
 from django.contrib import admin
 
+
+from interface1 import views
+
+
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
+   # url(r'^interface1/$', 'interface1.views.ola',name='interface1.ola'),
+    url(r'^interface1/$', views.index),
 ]
