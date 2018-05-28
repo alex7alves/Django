@@ -27,6 +27,10 @@ def casamentos(regex,string):
 	strings = re.findall(regex,string)
 	return strings
 
+def trocar(regex,troca,string):
+	strings = re.sub(regex,troca,string)
+	return strings
+
 
 
 
@@ -70,3 +74,10 @@ strings = casamentos(r'[\w . \- _]+@[\w . \- _]+',arquivo.read())
 print 'Os e-mails do arquivo são :'
 for em in strings:
 	print em 
+
+
+# O \1 é o grupo 1. \2 seria grupo 2
+# no caso troca o que está atrelado ao grupo 1 - do login > login-dominio-vazio
+dominio = trocar(r'([\w . \- _]+)@([\w . \- _]+)', r'\1@meuDominio.com','jose@gmail.com')
+print dominio
+
