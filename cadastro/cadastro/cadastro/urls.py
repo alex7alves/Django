@@ -14,7 +14,7 @@ Including another URLconf
     2. Add a URL to urlpatterns:  url(r'^blog/', include('blog.urls'))
 """
 #-*- coding: utf-8 -*-
-from django.conf.urls import url
+from django.conf.urls import url, include
 from django.contrib import admin
 
 
@@ -23,6 +23,5 @@ from interface1 import views
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-   # url(r'^interface1/$', 'interface1.views.ola',name='interface1.ola'),
-    url(r'^interface1/$', views.index),
+    url(r'^interface1/',include('interface1.urls')),
 ]
