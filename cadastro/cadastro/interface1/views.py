@@ -7,9 +7,8 @@ from django.shortcuts import render
 from django.http import HttpResponse
 
 def ola(request):
-	response = HttpResponse
-	return response('Olá mundo do Django')
+	return HttpResponse('Olá mundo do Django !!')
 
-def index(request):
-	response = HttpResponse
-	return response('Olá mundo do Django !!!')	
+def nome(request):
+	name = request.GET.get('nome',' ')
+	return HttpResponse('O nome passado foi %s'%name)
