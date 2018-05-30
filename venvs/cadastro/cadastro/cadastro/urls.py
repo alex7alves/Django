@@ -24,4 +24,5 @@ from interface1 import views
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^interface1/',include('interface1.urls')),
+    url(r'^App2_templates/',include('App2_templates.urls')),
 ]
