@@ -8,7 +8,6 @@
 
 {% if lista %}
 	<p>Os nomes das listas são<p>
-	{% for nomes in lista%}
-		<p> {{nomes}}<p>
-	{% endfor %}	
+	{% include 'App2_templates/Listar.html' with listar=lista%}	
+	<p>Bom dia<p>
 {% endif %}	
