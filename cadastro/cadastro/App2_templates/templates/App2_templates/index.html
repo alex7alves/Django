@@ -1,13 +1,13 @@
-<p> Mundo do html !<p>
+<p> Mundo do html !</p>
 
 {% if 'nome' %}
-<p>Seja bem vindo {{nome|capfirst}}<p>
+<p>Seja bem vindo {{nome|capfirst}}</p>
 {% else %}
-<p>Seja bem vindo !!<p>
+<p>Seja bem vindo !!</p>
 {% endif %}
 
 {% if lista %}
-	<p>Os nomes das listas são<p>
+	<p>Os nomes das listas são</p>
 	{% include 'App2_templates/Listar.html' with listar=lista%}	
-	<p>Bom dia<p>
+	<p>Bom dia</p>
 {% endif %}	
