@@ -8,7 +8,13 @@ from django.http import HttpResponse
 from django import template
 
 def index(request):	
-	return render(request,'App2_templates/index.html',{'nome':'Alex'})
+	Lista =[
+		'Alan',
+		'José',
+		'João'
+
+	]
+	return render(request,'App2_templates/index.html',{'nome':'Alex', 'lista':Lista})
 
 
 	

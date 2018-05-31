@@ -1,1 +1,14 @@
-<p>Olá mundo do html !<p>
+<p> Mundo do html !<p>
+
+{% if 'nome' %}
+<p>Seja bem vindo {{nome|capfirst}}<p>
+{% else %}
+<p>Seja bem vindo !!<p>
+{% endif %}
+
+{% if lista %}
+	<p>Os nomes das listas são<p>
+	{% for nomes in lista%}
+		<p> {{nomes}}<p>
+	{% endfor %}	
+{% endif %}	
