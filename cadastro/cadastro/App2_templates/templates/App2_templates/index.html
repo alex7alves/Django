@@ -1,13 +1,19 @@
-<p> Mundo do html !</p>
 
-{% if 'nome' %}
-<p>Seja bem vindo {{nome|capfirst}}</p>
-{% else %}
-<p>Seja bem vindo !!</p>
-{% endif %}
+{% extends 'App2_templates/base.html' %}
 
-{% if lista %}
-	<p>Os nomes das listas são</p>
-	{% include 'App2_templates/Listar.html' with listar=lista%}	
-	<p>Bom dia</p>
-{% endif %}	
+{% block titulo %}Projeto django{%endblock%} 
+{% block contexto %}
+
+	<h1> Mundo do html !</h1>
+	{% if 'nome' %}
+		<p>Seja bem vindo {{nome|capfirst}}</p>
+	{% else %}
+		<p>Seja bem vindo !!</p>
+	{% endif %}
+
+	{% if lista %}
+		<p>Os nomes das listas são</p>
+		{% include 'App2_templates/Listar.html' with listar=lista %}	
+		<p>Tenha um bom dia</p>
+	{% endif %}	
+{% endblock %}	
